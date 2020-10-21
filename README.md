@@ -1,5 +1,9 @@
 This repo contains multiple perl scripts as POC to learn perl
 
+## System Pre-requisites
+
+    perl 5.32.0
+
 ## hello-world.pl
 
 Simple 'hello world' program
